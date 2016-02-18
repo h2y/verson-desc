@@ -2,7 +2,7 @@
 
 [点击查看中文版本](https://github.com/h2y/verson-desc/blob/master/README.md)
 
-Document verson：__v0.1.0.1-en__
+Document verson：__v0.1.1.2-en__
 
 Last modify date：__16-02-18__
 
@@ -73,18 +73,6 @@ there are only some bug fixes. That is, there is no version such as v1.2.10.65.
   Is not the 10 smaller updates can not be seen as a major update? Besides, the
 most important reason is the smaller version number is more readable and it's
 easy to remember for us.
-
-* **Updating Frequency**
-
-  Users worry about the verson number increase soo quickly. To deal with the
-problem, I made the standard of the frequency at there.
-
-  1. Make patch update verson only once in a day, if there are more than
-one times, merge them.
-  2. Update the Minor version number only once a week.
-  3. Major version number update cycle for several months, or longer.
-  4. If a serious bug appear, repaire it immediately, without any of the above
-restrictions.
 
 * **Permanent Link for This Page**
 
